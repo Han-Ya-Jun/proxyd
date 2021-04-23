@@ -3,7 +3,7 @@ package main
 import (
 	"crypto/tls"
 	"errors"
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	"io"
 	"net"
 )
